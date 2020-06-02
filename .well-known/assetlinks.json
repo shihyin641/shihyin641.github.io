@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.com.hotaicyber.abccarinfo",
+    "sha256_cert_fingerprints":
+    ["E9:F8:3F:BD:DE:FE:C9:42:46:35:9E:A3:8E:6C:52:34:96:06:A4:44:36:8C:A5:97:AA:94:0A:FF:03:3C:F6:57"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://shihyin641.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tw.com.hotaicyber.abccarinfo",
+    "sha256_cert_fingerprints":
+    ["E9:F8:3F:BD:DE:FE:C9:42:46:35:9E:A3:8E:6C:52:34:96:06:A4:44:36:8C:A5:97:AA:94:0A:FF:03:3C:F6:57"]
+  }
+}]
